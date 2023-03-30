@@ -37,6 +37,7 @@ In a bid to drive revenue, I’ll produce a Jupyter notebook that contains my da
 
 The 'forecasting_net_prophet_Colab.ipynb' file contains my analysis of Mercado Libre search traffic trends, closing prices, and Prophet forecasts across a series of time periods.
 * [Forecasting Net Prophet notebook](Code/forecasting_net_prophet_Colab.ipynb)
+* [Google COLAB Link (File too large for GitHub)](https://colab.research.google.com/drive/1E5fHFpDy5dbLSdpI0aiM9Ll850KJZqqC?usp=sharing)
 
 The 'Data' directory contains different periods.
 * [Data files](Data/)
